@@ -299,6 +299,7 @@ header nav .nav-links a.active{
     }
     .about .about-img img{
         width: 380px;
+        height: 200px;
     }
     .services .boxs .box h3{
         font-size: 22px;
@@ -324,6 +325,14 @@ header nav .nav-links a.active{
     .about .contanier{
         flex-direction: column;
         text-align: center;
+    }
+
+    .about .content {
+        align-items: center;
+        text-align: center;
+        margin-right: 5%;
+        margin-left: 5%;
+
     }
     .about .about-img img{
         width: 340px;
